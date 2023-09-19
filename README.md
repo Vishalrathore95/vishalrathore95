@@ -1,4 +1,4 @@
-[![MasterHead](https://sklc-tinymce-2021.s3.amazonaws.com/comp/2023/03/4%20(40)_1677858158.png)](https://www.instagram.com/vishalrathore85/?hl=en)
+[![MasterHead](https://www.shiksha.com/online-courses/articles/wp-content/uploads/sites/11/2021/12/Programming-vs-Web-Development.jpg)](https://www.instagram.com/vishalrathore85/?hl=en)
 <h1 align="center">Hi 👋, I'm Vishal Rathore</h1>
 <h3 align="center">A passionate frontend developer & Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
