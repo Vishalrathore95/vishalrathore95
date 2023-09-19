@@ -1,4 +1,4 @@
-[![MasterHead](https://assets-global.website-files.com/6410ebf8e483b5bb2c86eb27/6410ebf8e483b53d6186fc53_ABM%20College%20Web%20developer%20main.jpg)](https://www.instagram.com/vishalrathore85/?hl=en)
+[![MasterHead]<p align="center" alt="cover" hight="400" src="https://assets-global.website-files.com/6410ebf8e483b5bb2c86eb27/6410ebf8e483b53d6186fc53_ABM%20College%20Web%20developer%20main.jpg">](https://www.instagram.com/vishalrathore85/?hl=en)
 <h1 align="center">Hi 👋, I'm Vishal Rathore</h1>
 <h3 align="center">A passionate frontend developer & Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
