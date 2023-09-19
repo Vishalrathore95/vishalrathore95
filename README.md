@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vishalrathore203@gmail.com**
 
-- 📄 Know about my experiences **Resume** **Click_Here**(https://drive.google.com/file/d/17VQ9F9QqttZJbUhmWCulCDlToY_4L0EI/view?usp=drive_link)
+- 📄 Know about my experiences [**Resume** **Click_Here**](https://drive.google.com/file/d/17VQ9F9QqttZJbUhmWCulCDlToY_4L0EI/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
